@@ -1,4 +1,5 @@
-# This whole repo is against Google Colab policy and you shouldn't be using it.
+# This whole repo is against Google Colab policy and you shouldn't be using it. 
+But because I do not give a fuck I forked the repo and here we go but you have been warned so make sure your account do not get disabled
 > **Why are hardware resources such as T4 GPUs not available to me?**
 The best available hardware is prioritized for users who use Colaboratory interactively rather than for long-running computations. Users who use Colaboratory for long-running computations may be temporarily restricted in the type of hardware made available to them, and/or the duration that the hardware can be used for. We encourage users with high computational needs to use Colaboratory’s UI with a local runtime.
 Please note that using Colaboratory for cryptocurrency mining is disallowed entirely, and may result in being banned from using Colab altogether.
