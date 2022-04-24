@@ -1,7 +1,7 @@
 # This whole repo is against Google Colab policy and you shouldn't be using it. 
 ### But because I do not give a fuck I forked the repo and here we go but you have been warned so make sure your account do not get disabled
 ___
-#### If you have team drive (aka. unlimited storage folder) and want to mount and download torrents into it instead, please read this: https://github.com/FKLC/Torrent-To-Google-Drive-Downloader/issues/4
+#### If you have team drive (aka. unlimited storage folder) and want to mount and download torrents into it instead, please read this: https://github.com/FKLC/Torrent-To-Google-Drive-Downloader/issues/4 -- And do not worry, you can close your colab notebook it won't close until torrent finish downloading or you exceed your runtime and (google) close itself.
 ___
 # Why are hardware resources such as T4 GPUs not available to me?
 The best available hardware is prioritized for users who use Colaboratory interactively rather than for long-running computations. Users who use Colaboratory for long-running computations may be temporarily restricted in the type of hardware made available to them, and/or the duration that the hardware can be used for. We encourage users with high computational needs to use Colaboratory’s UI with a local runtime.
